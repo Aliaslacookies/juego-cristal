@@ -1,4 +1,4 @@
-window.onload = function() {
+window.onload = function()    {
     base_preguntas = readText("base-preguntas.json")
     interprete_bp = JSON.parse(base_preguntas)
     escogerPreguntaAleatoria()
@@ -87,7 +87,7 @@ window.onload = function() {
       preguntas_correctas++
       btn_correspondiente[i].style.background = "lightgreen"
     } else {
-      btn_correspondiente[i].style.background = "pink"
+      btn_correspondiente[i].style.background = "yellow"
     }
     for (let j = 0; j < 4; j++) {
       if (posibles_respuestas[j] == pregunta.respuesta) {
@@ -98,14 +98,14 @@ window.onload = function() {
     setTimeout(() => {
       reiniciar()
       suspender_botones = false
-    }, 3000);
+    }, 300);
   }
   
   // let p = prompt("numero")
   
   function reiniciar() {
     for (const btn of btn_correspondiente) {
-      btn.style.background = "white"
+      btn.style.background = "red"
     }
     escogerPreguntaAleatoria()
   }
