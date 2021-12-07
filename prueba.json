@@ -1,38 +1,49 @@
-"categoria": "Arte y literatura",
+[
+    {"categoria": "Arte y literatura",
         "pregunta": "¿Quién pintó la mona lisa?",
         "respuesta": "Leonardo da Vinci",
         "incorrecta1": "Picasso",
         "incorrecta2": "Miguel Ángel",
         "incorrecta3": "Monet",
-        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte  y musica",
-        "pregunta": "Pintor de  \"El jardín de las delicias\"",
-        "respuesta": "El Bosco",
-        "incorrecta1": "Velásquez",
-        "incorrecta2": "Picasso",
-        "incorrecta3": "Dalí\r",
-        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "categoria": "Matematicas",
+        "pregunta": "¿Si tienes un cubo y cada borde tiene 5 centimetros de largo ,¿cuantos centimetros cuadrados hay entre los ocho lados?",
+        "respuesta" : "6 lados",
+        "incorrecta1": "8 lados", 
+        "incorrecta2" :"4 lados",
+        "incorrecta3" : "10 lados", 
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "significado de  \"El jardín de las delicias\"",
-        "respuesta": "Mundo Terrenal",
-        "incorrecta1": "Es Mejor Morir",
-        "incorrecta2": "Dios Es El Camino",
-        "incorrecta3": "Adán Y Eva\r",
-        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
-        "objectFit": "cover"
+        "categoria": "Mucica y arte",
+        "pregunta" :"Que  cantante es considerado ´´El Rey del rock and roll",
+        "respuesta": "Elvis Hendrix",
+        "incorrecta1": "Michael jackson",
+        "incorrecta2": "jon lenon",
+        "incorrecta3": "elton jon",
+        "imagen" : "https://www.poblanerias.com/wp-content/archivos/2020/07/Guitarra-1021x580.jpg"
+    
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Ciudad fetiche del escritor Paul Auster",
-        "respuesta": "Nueva York",
-        "incorrecta1": "París",
-        "incorrecta2": "Ámsterdam",
-        "incorrecta3": "Bogotá\r",
-        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
-    },
+        "categoria": "MATEMATICAS",
+        "pregunta": "¿cual es la representación grafico del numero nueve mil treinta y seis?",
+        "respuesta": "9036",
+        "incorrecta1": "90036",
+        "incorrecta2": "936",
+        "incorrecta3": "9040",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2PHG-vGYDWMyNi24cMIawM7x-OnGbjuy4etkRBOKSBZw-KZRZ7-vXPdBG7W2gPMkffs&usqp=CAU"
+    },  
+    {
+        
+       "categoria" :"MATEMATICAS",
+       "pregunta" :"¿Que numero resulta si divides 56 entre 7",
+       "respuesta" :"8",
+       "incorrecta1" :"3",
+       "incorrecta2" :"10",
+       "incorrecta3" :"12",
+       "imagen" : "https://img.eldefinido.cl/portadas/650/2018-11-28-8329HH5529.jpg"
+    }
+
+]
