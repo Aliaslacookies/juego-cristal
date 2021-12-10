@@ -18,7 +18,7 @@
     },
     {
         "categoria": "Mucica y arte",
-        "pregunta" :"Que  cantante es considerado ´´El Rey del rock and roll",
+        "pregunta" :"Que  cantante es considerado El Rey del rock and roll",
         "respuesta": "Elvis Hendrix",
         "incorrecta1": "Michael jackson",
         "incorrecta2": "jon lenon",
@@ -44,6 +44,62 @@
        "incorrecta2" :"10",
        "incorrecta3" :"12",
        "imagen" : "https://img.eldefinido.cl/portadas/650/2018-11-28-8329HH5529.jpg"
-    }
+    },
+    {"categoria" : "Matematicas",
+        "pregunta" :"¿Como escribir en cifras seicientos veinticinco mil doscientos dos?",
+        "respuesta" : "(B(6252202)",
+        "incorrecta1" : "(A(6025202)",
+        "incorrecta2" : "(C(600062202)" ,
+        "incorrecta3" : "(D(60025202)",
+        "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyB23Qf-3THdqsjWj46Jdr2tpJOqlL-asPA&usqp=CAU"
+            
+   },
+   {
 
+    "categoria" : "Mucica y arte",
+    "pregunta" : "¿Que rockero es recordado por haber  ´´incendiado´´ su guitarra?",
+    "respuesta" : "jimi hendrix",
+    "incorrecta1" : "gustavo cerati",
+    "incorrecta2" : "Michael jackson",
+    "incorrecta3" : "justin bieber",
+    "imagen" : "https://fotografias.antena3.com/clipping/cmsimages02/2021/06/28/95F77D41-4CD4-4A86-98FC-397725386026/98.jpg"
+    
+   
+   },
+   {
+
+    
+    "categoria" : "Mucica y arte",
+    "pregunta" : "¿Que mitico compositor fue el creador de la opera  Las bodas de figaro?",
+    "respuesta" : "Mozart",
+    "incorrecta1" : "Antonio Vivaldi",
+    "incorrecta2" : "Frédéric Chopin",
+    "incorrecta3" : "Joseph Haydn",
+    "imagen" : "https://t1.up.ltmcdn.com/es/images/5/3/6/instrumentos_de_la_musica_clasica_3635_orig.jpg"
+   },
+   {
+
+    "categoria" : "Mucica y arte",
+    "pregunta" : "¿De que nacionalidad era beethoven?",
+    "respuesta" : "Alemania",
+    "incorrecta1" : "Francia",
+    "incorrecta2" : "Italia",
+    "incorrecta3" : "Reino unido",
+    "imagen" : "https://musicaclasica.com.ar/wp-content/uploads/Beethoven-1.jpg"
+
+   },
+   {
+
+    "categoria" : "Mucica y arte",
+    "pregunta" : "¿En que pais nacio Freddie Mercury?",
+    "respuesta" : "En Tanzania",
+    "incorrecta1" : "estados unidos",
+    "incorrecta2" : "Puero rico",
+    "incorrecta3" : "Paris",
+    "imagen" : "https://www.ringtina.com.ar/Descargar/Fondos%20de%20Pantalla/Musica/Freddie%20Mercury%2001.jpg"
+    
+   }
+   
+
+    
 ]
