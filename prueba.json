@@ -108,6 +108,50 @@
     "incorrecta2" : "Frida socorro de la luz",
     "incorrecta3" : "Frida sofia Calo gusman",
     "imagen" : "https://www.elviejotopo.com/wp-content/uploads/2018/07/18-frida-kahlo-book-lede.w710.h473.2x-696x464.jpg"
+
+   },
+   {
+
+    "categoria" : "Mucica",
+    "pregunta" : "¿Cuantas cuerdas tiene un violin?",
+    "respuesta" : "4",
+    "incorrecta1" : "10",
+    "incorrecta2" : "6",
+    "incorrecta3" : "8",
+    "imagen" : "https://thumbs.dreamstime.com/b/haga-el-sue%C3%B1o-de-los-violines-128722038.jpg"
+
+   },
+   {
+
+    "categoria" : "Mucica",
+    "pregunta" : "¿Que famosa cantante es hermana de michael jackson?",
+    "respuesta" : "Janet Jackson",
+    "incorrecta1" : "Michel Jackson",
+    "incorrecta2" : "Erica Jackson",
+    "incorrecta3" : "Manuela Jackson",
+    "imagen" : "https://www.cooperativa.cl/noticias/site/artic/20190624/imag/foto_0000000120190624083421.jpg"
+
+   },
+   {
+
+    "categoria" : "Mucica",   
+    "pregunta" : "¿De que famasa cantante es la cancion California girls?",
+    "respuesta" : "Katy Perry",
+    "incorrecta1" : "Emily Scott",
+    "incorrecta2" : "Onika Tanya Maraj",
+    "incorrecta3" : "Olivia jane",
+    "imagen" : "https://img.discogs.com/er7IyVu4eNzXcMnoi-KzqzMSeNo=/600x900/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-971243-1621271824-7896.jpeg.jpg"
+        
+   },
+   {
+
+    "categoria" : "MATEMATICAS",
+    "pregunta" : "Expresa 7kg y 670g en gramos",
+    "respuesta" : "7670",
+    "incorrecta1" : "70670",
+    "incorrecta2" : "7607",
+    "incorrecta3" : "767",
+    "imagen" : "https://cutt.ly/sYJJ4PL"
    }
    
 
