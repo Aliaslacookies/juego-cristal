@@ -20,9 +20,9 @@
         "categoria": "Mucica y arte",
         "pregunta" :"Que  cantante es considerado El Rey del rock and roll",
         "respuesta": "Elvis Hendrix",
-        "incorrecta1": "Michael jackson",
-        "incorrecta2": "jon lenon",
-        "incorrecta3": "elton jon",
+        "incorrecta1": "aretha franklin",
+        "incorrecta2": "Marvin gaye",
+        "incorrecta3": "sam cooke",
         "imagen" : "https://www.poblanerias.com/wp-content/archivos/2020/07/Guitarra-1021x580.jpg"
     
     },
@@ -31,7 +31,7 @@
         "pregunta": "¿cual es la representación grafico del numero nueve mil treinta y seis?",
         "respuesta": "9036",
         "incorrecta1": "90036",
-        "incorrecta2": "936",
+        "incorrecta2": "9360",
         "incorrecta3": "9040",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2PHG-vGYDWMyNi24cMIawM7x-OnGbjuy4etkRBOKSBZw-KZRZ7-vXPdBG7W2gPMkffs&usqp=CAU"
     },  
@@ -57,7 +57,7 @@
    {
 
     "categoria" : "Mucica y arte",
-    "pregunta" : "¿Que rockero es recordado por haber  ´´incendiado´´ su guitarra?",
+    "pregunta" : "¿Que rockero es recordado por haber  ´´incendiada´´ su guitarra?",
     "respuesta" : "jimi hendrix",
     "incorrecta1" : "gustavo cerati",
     "incorrecta2" : "Michael jackson",
@@ -72,7 +72,7 @@
     "categoria" : "Mucica y arte",
     "pregunta" : "¿Que mitico compositor fue el creador de la opera  Las bodas de figaro?",
     "respuesta" : "Mozart",
-    "incorrecta1" : "Antonio Vivaldi",
+    "incorrecta1" : "beethoven",
     "incorrecta2" : "Frédéric Chopin",
     "incorrecta3" : "Joseph Haydn",
     "imagen" : "https://t1.up.ltmcdn.com/es/images/5/3/6/instrumentos_de_la_musica_clasica_3635_orig.jpg"
